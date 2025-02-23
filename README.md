@@ -1,0 +1,1 @@
+ Recipe Finder is a user-friendly web application that helps you discover new and exciting recipes based on ingredients you have at home. Whether you're looking for a quick meal or planning a gourmet dinner, Recipe Finder has you covered!
